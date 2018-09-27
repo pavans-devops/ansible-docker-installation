@@ -1,5 +1,5 @@
 - name: Install Docker
-  hosts: all
+  hosts: ivanka1212171.mylabserver.com
   tasks:
     - name: Install Docker
       yum:
